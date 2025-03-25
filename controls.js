@@ -57,7 +57,7 @@ class Controls{
                     break;
                 case "w":
                     this.forward=false;
-                    break;
+                    break;ss
                 case "ArrowDown":
                     this.reverse=false;
                     break;
